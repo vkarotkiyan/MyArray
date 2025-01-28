@@ -1,4 +1,4 @@
-== MyArray
+## MyArray
 
 Шаблонный класс MyArray позволяет работать с различными типами данных - int, double, string. 
 
